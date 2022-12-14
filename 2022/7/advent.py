@@ -1,3 +1,5 @@
+from utils import Tree, Fns
+
 class Solution():
   def populate_directories(self, directories, curr_dir):
     curr = directories
