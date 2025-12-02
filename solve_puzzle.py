@@ -13,11 +13,11 @@ BASE_PYTHON_SOLUTION = '''
 class Solution():
     def solve_a(self, input):
         answer = 0
-        return answer
+        return str(answer)
 
     def solve_b(self, input):
         answer = 0
-        return answer
+        return str(answer)
 '''
 
 def get_puzzle_day():
